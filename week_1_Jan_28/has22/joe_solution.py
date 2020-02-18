@@ -24,3 +24,4 @@ print(has22([5, 2, 5, 2]))#→ False
 
 
 #https://codingbat.com/prob/p119308
+
